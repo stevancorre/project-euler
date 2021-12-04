@@ -1,0 +1,13 @@
+# Project Euler
+
+## What is Project Euler?
+
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
+
+The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+
+*Source: [projecteuler.net](https://projecteuler.net)*
+
+## Project organization
+
+Each problem is separated in its individual folder `problem-xxx`. Each folder has a `main.py` file, with the solution, and a `README.md` file that contains the problem itself, and the anwser (Anwsers are hidden with spoilers)
